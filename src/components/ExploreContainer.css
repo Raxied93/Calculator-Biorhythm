@@ -1,0 +1,11 @@
+.biorhythm-card .emotional {
+  color: var(--ion-color-danger);
+}
+
+.biorhythm-card .physical {
+  color: var(--ion-color-success);
+}
+
+.biorhythm-card .intellectual{
+  color: var(--ion-color-tertiary);
+}

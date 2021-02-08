@@ -1,0 +1,11 @@
+.biorhythm-chart .emotional path {
+    stroke: var(--ion-color-danger);
+}
+
+.biorhythm-chart .physical path {
+    stroke: var(--ion-color-success);
+}
+
+.biorhythm-chart .intellectual path {
+    stroke: var(--ion-color-tertiary);
+}
